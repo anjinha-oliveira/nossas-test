@@ -35,8 +35,8 @@ Dado um array de números inteiros, encontre se o array possui algum número dup
 Esse código foi feito atrávez de um TDD básico para verificação de casos.&nbsp;
 
 **Os casos de teste foram:**
-* Lista com duplicatas
-* Lista com números sem duplicatas
-* Lista vazia
-* Lista com mais de uma duplicata
+* Array com duplicatas
+* Array com números sem duplicatas
+* Array vazia
+* Array com mais de uma duplicata
 
