@@ -36,7 +36,7 @@ Esse código foi feito atrávez de um TDD básico para verificação de casos.&n
 
 **Os casos de teste foram:**
 * Array com duplicatas
-* Array com números sem duplicatas
+* Array sem duplicatas
 * Array vazia
 * Array com mais de uma duplicata
 
